@@ -10,9 +10,9 @@ author:
   name: Michael Cassens
   email: michael.cassens@umontana.edu
 
-baseurl: "https://montana-media-arts.github.io/341-web-design-Fall2021"
+baseurl: "https://montana-media-arts.github.io/341-web-design-Fall2021/"
 url: https://montana-media-arts.github.io/341-web-design-Fall2021/
-git_address: https://github.com/Montana-Media-Arts/341-web-design-Fall2021
+git_address: https://github.com/Montana-Media-Arts/341-web-design-Fall2021/
 git_edit_address: https://github.com/Montana-Media-Arts/341-web-design-Fall2021/blob/gh-pages
 
 # Theme options from https://bootswatch.com/
