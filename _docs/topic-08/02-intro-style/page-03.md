@@ -25,7 +25,7 @@ You can easily change the width of a div from 100% using the **width property**.
   <div style="width: 50%;">
 ```
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="dyXooGE" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="dyXooGE" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/dyXooGE">
   div width</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -42,9 +42,12 @@ Have a div less than full-page and want it placed in the middle? Add the **margi
 ```html
 <div style="margin: auto;">
 ```
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="WNxvvxp" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="div margin auto" class="codepen"></p>
-</div>
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="WNxvvxp" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/WNxvvxp">
+  div margin auto</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## Cushioning From the Edge
 Text inside of a div will set along the edges. To override this and give the text some “cushion” for easier-reading, add the **padding property**. Pixel values are best-suited here.
@@ -57,9 +60,12 @@ Text inside of a div will set along the edges. To override this and give the tex
 <div style="padding: 10px;">
 ```
 
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="dyXooXE" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="div padding" class="codepen"></p>
-</div>
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="dyXooXE" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/dyXooXE">
+  div padding</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 <div class="divider-pg"></div>
 
@@ -69,6 +75,9 @@ Finally, what if we want to use multiple styles in the same style attribute?
 This final example, puts all of it together using **width**, **margin: auto**, and **padding**.
 
 
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="LYZVVRv" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="Basic HTML Div Styling" class="codepen"></p>
-</div>
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="LYZVVRv" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/LYZVVRv">
+  Basic HTML Div Styling</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
