@@ -64,6 +64,9 @@ See how you can make a list stand-out by changing its **background color**, text
 
 **Note** In the style element, the `ul` and the `li` are put together so that they both use the _display:inline_ style.  Otherwise, the list items won't be horizontal.
 
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="NWrqqVy" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="Basic HTML List Stying" class="codepen"></p>
-</div>
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="NWrqqVy" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/NWrqqVy">
+  List Styling</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

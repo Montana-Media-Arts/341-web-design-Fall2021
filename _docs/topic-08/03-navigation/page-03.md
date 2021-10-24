@@ -13,9 +13,12 @@ We've been discussing external and internal linking for several topics now, so t
 <a href="../../topic-04/nav-links/" target="_new">Page-to-page</a> navigation may require going into/out-of child directories. Page URLs reflect the folders they are in, and must be considered when creating links to-and-from these pages.</p>
 
 
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="pobJgJv" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="HTML Nav Element, Site Navigation" class="codepen"></p>
-</div>
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="pobJgJv" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/pobJgJv">
+  HTML Nav element, Site Navigation</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 
 <span class="label label-danger">Important</span> You will have to add the `<nav>` element to **every page** of the site, and this means your relative links may need to change, as you jump in-and-out of child directories. _Always test your links!_
