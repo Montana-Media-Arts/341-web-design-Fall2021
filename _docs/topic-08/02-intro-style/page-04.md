@@ -22,9 +22,12 @@ A color fill can be created using the **background-color property**. You can use
 <div style="background-color: green;">
 ```
 
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="vYKOOgY" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="div padding" class="codepen"></p>
-</div>
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="LYZVVRv" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/LYZVVRv">
+  Basic HTML Div Styling</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 
 ## Adding a Background Image
@@ -39,9 +42,12 @@ You can easily generate a pattern on your background by adding a small image (le
 ```
 **Note** Keep in mind that the image can be something on your site or something external. Just a relative link if it's on your site use a absolute link if it's external (i.e. should start with http or https).
 
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="gOMppWr" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="div padding" class="codepen"></p>
-</div>
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gOMppWr" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/gOMppWr">
+  background-image</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 <div class="divider-pg"></div>
 
@@ -50,9 +56,12 @@ You can easily generate a pattern on your background by adding a small image (le
 See how you can add pizazz ( I know, I know, it's busy!) with **background-color** and **background-image** styling!
 
 
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="VwjLLWZ" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="Basic HTML Background Styling" class="codepen"></p>
-</div>
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="VwjLLWZ" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/VwjLLWZ">
+  Basic HTML Background Styling with Color and Image</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 
 Like you saw on the previous page, adding a pixel amount to the `padding: ;` property within your chosen element can give cushion between the boundary of the container and the contents inside.
