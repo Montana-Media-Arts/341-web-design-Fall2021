@@ -25,9 +25,12 @@ You can easily change the width of a div from 100% using the **width property**.
   <div style="width: 50%;">
 ```
 
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="dyXooGE" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="div width" class="codepen"></p>
-</div>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="dyXooGE" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/dyXooGE">
+  div width</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## Centering on the Page
 Have a div less than full-page and want it placed in the middle? Add the **margin property**, set to `auto` (`margin: auto`).
